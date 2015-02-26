@@ -19,6 +19,9 @@
 #                                                                     #
 #######################################################################
 
+# IMPORTANT: This script is wrapper of the youtube-dl. Please install
+# the youtube-dl package for your distribution in order to it work. 
+
 links=''
 file=''
 
